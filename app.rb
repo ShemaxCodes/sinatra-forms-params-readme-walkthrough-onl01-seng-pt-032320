@@ -7,5 +7,4 @@ class App < Sinatra::Base
   end
 
   # Add your post route and action below
-  <form method="POST" action="/food">
 end
